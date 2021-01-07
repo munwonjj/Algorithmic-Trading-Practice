@@ -1,5 +1,5 @@
 # Algorithmic-Trading-PlayingAround
-Algorithmic Trading by investigating Apple from 2015 - 2021 
+Algorithmic Trading by investigating Apple from 2015 - 2021 <br/>
 Reference from Computer Science Youtuber video
 
 
